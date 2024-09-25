@@ -1,1 +1,1 @@
-Invoke-Mimikatz
+powershell.exe Invoke-Mimikatz
