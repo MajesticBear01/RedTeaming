@@ -1,8 +1,9 @@
 function Invoke-Pages {
 
 $URLs = @(
-    'https://raw.githubusercontent.com/MajesticBear01/RedTeaming/refs/heads/main/Sneaky-K.ps1',
-    'https://raw.githubusercontent.com/MajesticBear01/RedTeaming/refs/heads/main/CRaider.ps1'
+    'https://raw.githubusercontent.com/MajesticBear01/RanEnc/refs/heads/main/RanSim.ps1',
+    'https://raw.githubusercontent.com/MajesticBear01/RedTeaming/refs/heads/main/CRaider.ps1',
+    'https://raw.githubusercontent.com/MajesticBear01/RedTeaming/refs/heads/main/KittyCat.ps1'
 )
 
 
