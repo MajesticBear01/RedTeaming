@@ -23,3 +23,5 @@ foreach ($URL in $URLs) {
 
 #Call the page function
 Invoke-Pages
+
+#https://vscode.dev/tunnel/desktop-ccf320f/C:/Users/RedTeamer/Downloads/vscode_cli_win32_x64_cli
